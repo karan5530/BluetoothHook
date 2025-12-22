@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "timestamp": 1766005598078,
+  "deviceCount": 4,
+  "devices": [
+    {
+      "id": "72237aac-8fd9-4b2e-bbd8-0e96de8f68b0",
+      "name": "qqq",
+      "mac": "AA:AA:AA:AA:AA:AA",
+      "rssi": -60,
+      "advDataHex": "0201060409717171",
+      "intervalMs": 1000,
+      "enabled": true,
+      "createdAt": 1765973327921,
+      "updatedAt": 1765973396050
+    },
+    {
+      "id": "heart-rate-sensor-001",
+      "name": "心率传感器",
+      "mac": "AA:BB:CC:DD:EE:01",
+      "rssi": -60,
+      "advDataHex": "020106110716181A5A00",
+      "intervalMs": 1000,
+      "enabled": true,
+      "createdAt": 1734393600000,
+      "updatedAt": 1766005598077
+    },
+    {
+      "id": "counter-device-001",
+      "name": "计数器设备",
+      "mac": "AA:BB:CC:DD:EE:02",
+      "rssi": -55,
+      "advDataHex": "0201060B09436F756E746572AB",
+      "intervalMs": 1000,
+      "enabled": true,
+      "createdAt": 1734393600000,
+      "updatedAt": 1766005598077
+    },
+    {
+      "id": "temperature-sensor-001",
+      "name": "温度传感器",
+      "mac": "AA:BB:CC:DD:EE:03",
+      "rssi": -65,
+      "advDataHex": "020106110716181ABC07",
+      "intervalMs": 2000,
+      "enabled": true,
+      "createdAt": 1734393600000,
+      "updatedAt": 1766005598077
+    }
+  ]
+}
